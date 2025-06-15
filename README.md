@@ -36,4 +36,4 @@ In the above example, a segment between 0.0 - 4.9 sec is identified as dialogue.
 このファイルの例では，0.0 - 4.9秒が，1つの対話区間になります．
 
 ## Paper / 参考文献
-TBA
+- 佐藤 友紀, 高道 慎之介, 東中 竜一郎, "YouTube上の対話動画に基づく音声対話データセットの構築," 日本音響学会春季研究発表会, 2025.
